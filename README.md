@@ -49,7 +49,13 @@ As an end-user, i want to be able to update the name and/or the status of the to
 
 I would be happy to get a success message if the todo item was successfully updated as well as getting error message if somehting went worng
 #### To update the todo item, Send an `HTTP PUT` request to this endpoint `https://api.joinnextstep.com/api/todo/{id}`
-
+Request body:
+```
+{
+    "name": "Create routing",
+    "status": 0 // 0 for new | 1 for in-progress | 2 for done
+}
+```
 
 
 ### Change the status of specific todo item
