@@ -8,7 +8,7 @@ As an end user i should be able to see a list of the todos the i've created and 
 1. todo's name
 2. todo's status (`new`, `in-progress`, `done`)
 
-Also, if i was using *mobile* device it would be nice if you display *1 todo item per row*, if i was using *tablet* show me *2 items per row*, and in case i was using *desktop* screen please show me *6 items per row* 
+Also, if i was using *mobile* device it would be nice if you display `1 todo item per row`, if i was using `tablet` show me `2 items per row`, and in case i was using `desktop` screen please show me `6 items per row` 
 
 ### To get a list of todos, send an `HTTP GET` request to this endpoint:  `https://api.joinnextstep.com/api/todo`
 Sample response: 
