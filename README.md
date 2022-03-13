@@ -1,6 +1,6 @@
 # NextStep Fontend Task Requuirments
 
-## As TODO list app has become the new hello word! 
+## As TODO list app has become the new hello world! 
 Your task to create a web that manage a todo list for user, and the user wish to have the following features:
 
 ### Listing TODOs
